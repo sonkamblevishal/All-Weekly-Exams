@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    display:block;
+    text-align:center;
+    margin:auto;
+    background-color: rgb(235, 224, 224);
+    width: 50vw;
+    height: 25vh;
+    margin-top: 50px;
+}
+
+#btnSearch{
+    margin-top: 15px;
+}
+
+
+td{
+    border: 1px solid red;
+}
