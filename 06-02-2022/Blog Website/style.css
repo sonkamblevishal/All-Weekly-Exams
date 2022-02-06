@@ -1,0 +1,241 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(219, 235, 235);
+    padding: 10px 0px 0px 0px;
+}
+
+
+.logo{
+    display: inline-block;
+    position: relative;
+    left: -350px;
+}
+
+.nav-items{
+    display: flex;
+    outline: none;
+    color: black;
+}
+.nav-items a{
+    text-decoration: none;
+    color: black;
+}
+.nav-items a:hover{
+   color:red;
+}
+
+.loginBtn{
+    display: inline-block;
+    position: relative;
+    left: 20rem;
+    margin-bottom: 15px;
+}
+
+p{
+    margin-right: 34px;
+}
+
+.updateData{
+    text-align: right;
+   margin-bottom:10px;
+}
+.updateData button{
+   margin-top: 20px;
+}
+
+
+
+
+
+.mid-section img{
+   width: 100vw;
+   height: 80vh;
+}
+
+.para1{
+    position: relative;
+    top: -15rem;
+    width: 50vw;
+    margin-left: 15rem;
+}
+
+#box{
+    display:flex;
+    justify-content:flex-start;
+    align-items:space-between;
+    flex-wrap: wrap;
+    margin-left: 95px;
+    /* border: 2px solid black; */
+     
+}
+
+#box-2{
+    display:flex;
+    justify-content:flex-start;
+    align-items:space-between;
+    flex-wrap: wrap;
+    margin-left: 95px;
+    margin-top: 50px;
+}
+
+.box1{
+    border: 2px solid black;
+    align-items:center;
+    margin-left: 15px;
+    width: 17rem;
+    border-radius: 14px;
+
+}
+
+.box1 h2{
+    text-align: center;
+}
+.box1 p{
+    margin-left: 15px;
+    text-align: left;
+}
+.box1 img{
+    margin-left: 15px;
+    width: 14rem;
+    height: 12rem;
+}
+
+#contact-us{
+    padding: 34px;
+    margin: 34px;
+    text-align: center;
+}
+
+#contact-us input{
+    margin: 10px;
+    width: 30rem;
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 12px;
+}
+#submitBtn{
+    margin: 10px;
+    width: 30rem;
+    padding: 10px;;
+}
+
+#footer{
+    padding: 10px ;
+    margin-top: 12px;
+    background-color:red;
+}
+#footer p{
+    margin-top: 14px;
+    text-align:center;
+    color:white;
+    letter-spacing: 1px;
+}
+
+/* CSS for blog.html */
+
+.conatiner {
+    margin: 50px;
+    /* background-color:yellow; */
+}
+
+.conatiner h2 {
+    text-align: center;
+    margin-bottom:20px;
+}
+
+hr{
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.box-2{
+    align-items:center;
+    margin-left: 10rem;
+    width: 17rem; 
+}
+.box-2 h4 , h6{
+    text-align: center;
+    margin-top:50px;
+    text-align:left;
+}
+
+
+
+.box-2 img{
+    margin-left: 12px;
+    width: 25rem;
+    height: 12rem;
+}
+
+.para2{
+    margin-top:100px;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color:rgb(255, 194, 184);
+ box-sizing: border-box;
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#blogDesc{
+    display: block;
+    margin-left: 550px;
+    width: 20%;
+}
+
+#headingInput{
+    align-items: center;
+    text-align: center;
+    left: 20%;
+}
+
+
+.addBtn{
+    margin-top:20px;
+    width: 100px;
+    margin-left: 621px;
+   background-color:rgb(135, 236, 135);
+    padding: 14px;
+      
+}
+.material-icons-outlined{
+    display: inline-block;
+    position: relative;
+    margin-left: 50px;
+    /* border:2px solid red; */
+}
+#headingInput{
+    text-align: center;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom:40px;
+    margin-left:310px;
+
+
+}
+
+.para4{
+    text-align: center;
+}
+
+.buttonContainer{
+    text-align: center;
+}
